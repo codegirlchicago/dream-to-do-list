@@ -1,0 +1,26 @@
+<html>
+<head>
+  <title><h1> jQuery To Do List</title></h1>
+</head>
+  
+<link rel="stylesheet" type="text/css" href="todos.css">
+<link rel="stylesheet" type= "text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script
+<body>
+<div id="container">
+<h1>To Do List</h1>
+<input type="text" placeholder="Add new todos">
+<ul>
+<li> <span> <i class="fa fa-trash"></i></span>Code all day</li>
+<li> <span><i class="fa fa-trash"></i></span>Have equality for all</li>
+<li> <span><i class=" fa fa-trash"></i></span> See Wonder Woman</li>
+<li> <span><i class="fa fa-trash"></i></span> Move to Wakanda</li>
+</li>
+</ul>
+</div>
+<script type="stylesheet" type="text/javascript" href="todos.js"></script>
+</body>
+</html>
